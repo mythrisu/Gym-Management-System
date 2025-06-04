@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="291ca4fa-c5da-40ac-813a-2d8b93c2d353" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="29sTJexPc1DjmK2T54p5EwVUO8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Chaturanand/Project/LaundryManagementSystem" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mydrive\GymMgmtGK\GymManagementSystem\gym\templates" />
+      <recent name="C:\mydrive\GymMgmtGK\GymManagementSystem\gym" />
+      <recent name="C:\mydrive\GymMgmtGK\GymManagementSystem\gym\static\assets\images" />
+      <recent name="D:\Project\Python Project\GymManagementSystem\gym\static" />
+      <recent name="D:\Project\Python Project\GymManagementSystem\gym\templates" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="291ca4fa-c5da-40ac-813a-2d8b93c2d353" name="Changes" comment="" />
+      <created>1653900723050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653900723050</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1683890103463">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="92" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.672@0.0.1280.672" timestamp="1683890103463" />
+    <state x="368" y="32" key="FileChooserDialogImpl" timestamp="1686662672351">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="368" y="32" key="FileChooserDialogImpl/0.0.1280.672@0.0.1280.672" timestamp="1686662672351" />
+    <state x="281" y="0" width="719" height="738" key="find.popup" timestamp="1684417724923">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="281" y="0" width="719" height="738" key="find.popup/0.0.1280.672@0.0.1280.672" timestamp="1684417724923" />
+    <state x="219" y="0" key="search.everywhere.popup" timestamp="1683718285140">
+      <screen x="0" y="0" width="1280" height="672" />
+    </state>
+    <state x="219" y="0" key="search.everywhere.popup/0.0.1280.672@0.0.1280.672" timestamp="1683718285140" />
+  </component>
+</project>
